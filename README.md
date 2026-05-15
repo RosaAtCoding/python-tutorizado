@@ -1,1 +1,1 @@
-# python-tutorizado
+# Python Tutorizado (Píldoras Informáticas)
